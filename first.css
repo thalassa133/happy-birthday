@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(100, 24, 150);
+    margin-top: 15%;
+
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    color: pink;
+}
+
+.button, i {
+    font-size: 1000%;
+}
+
+.button {
+   justify-content: center;
+   display: flex;
+   margin-top: 5%;
+}
